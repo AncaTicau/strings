@@ -21,7 +21,7 @@ namespace StringManipulation
 
             string mere2 = myString.Substring(myString.IndexOf('m'), 4);
 
-            Console.WriteLine(mere);
+           \\ Console.WriteLine(mere);
 
             Console.WriteLine(mere2);
 
